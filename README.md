@@ -35,3 +35,5 @@ Transformers
 - Run app.py to start the summarizer API.
 - Load the extension into Chrome or any Chromium browser.
 - Go to the Youtube Video and run the extension to get the summary.
+
+(This extension was made in June 2022, so install the dependencies as mentioned.)
